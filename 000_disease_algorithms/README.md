@@ -5,3 +5,5 @@ These algorithms can also be directly obtained in All of Us from the public work
 The T2D algorithm was implemented and validated as in https://www.nature.com/articles/s41598-024-74730-9 and will be made publically available as a part of PRIMED phenotypes within the next year.
 
 The Overivew and CKD algorithm overview pdf files offer an overview of the case control criteria for the diseases included here: Breast Cancer, Prostate Cancer, CAD/CHD, Asthma, and CKD. This is not available for T2D at this time.
+
+A hypercholesterolemia algorithm was additionally developed for this project. 
